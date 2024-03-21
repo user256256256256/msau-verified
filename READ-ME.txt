@@ -1,7 +1,7 @@
 => this is a website designed for msau by user256256256
 
-=> data in project 
-font-end: html, css, javascript, jquery, bootstrap, google-fonts, scss flat icon fonts and icomoon fonts
+=> data in wesite
+font-end: html, css, javascript, jquery, bootstrap, google-fonts, scss, icons-fontawsome, flat-icon-fonts and icomoon-fonts
 
 =>credit goes to https://htmlcodex.com/ for the template used in developing this site
 

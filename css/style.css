@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #FF6600;
+  color: #358629;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #b34700;
+  color: #2c5e24;
   text-decoration: underline;
 }
 
@@ -2371,21 +2371,21 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #FF6600;
-  border-color: #FF6600;
+  background-color: #eb2134;
+  border-color: #f67b7b;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #d95700;
-  border-color: #cc5200;
+  background-color: #ff0101;
+  border-color: #ffffff;
 }
 
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #d95700;
-  border-color: #cc5200;
-  box-shadow: 0 0 0 0.2rem rgba(255, 125, 38, 0.5);
+  background-color: #e70606;
+  border-color: #fff;
+  box-shadow: 0 0 0 0.2rem rgb(255 38 38 / 50%);
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
@@ -2397,8 +2397,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #cc5200;
-  border-color: #bf4d00;
+  background-color: #e11313;
+  border-color: #fff;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -4005,6 +4005,11 @@ input[type="button"].btn-block {
   .custom-select {
     transition: none;
   }
+}
+
+.site-logo {
+  max-width: 3rem;
+  max-height: 3rem;
 }
 
 .nav {
@@ -6425,7 +6430,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #44425A !important;
+  background-color: #2e2e30 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9525,7 +9530,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #FF6600 !important;
+  color: #358629 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9772,7 +9777,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #FF6600;
+  color: #358629;
 }
 
 @media (max-width: 991.98px) {
@@ -9817,7 +9822,7 @@ h6,
 }
 
 .carousel-indicators .active {
-  background: #FF6600;
+  background: #eb2134;
 }
 
 @media (max-width: 991.98px) {
@@ -9910,7 +9915,7 @@ h6,
   width: 15px;
   height: 15px;
   border-radius: 15px;
-  background: #FF6600;
+  background: #eb2134;
 }
 
 .testimonial-carousel .owl-dot::after {
