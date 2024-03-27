@@ -3221,7 +3221,7 @@ input[type="button"].btn-block {
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #FF6600;
+  background-color: #358629;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -4008,8 +4008,8 @@ input[type="button"].btn-block {
 }
 
 .site-logo {
-  max-width: 3rem;
-  max-height: 3rem;
+  max-width: 4rem;
+  max-height: 4rem;
 }
 
 .nav {
