@@ -37,10 +37,10 @@
     $(".testimonial-carousel").owlCarousel({
         autoplay: true,
         smartSpeed: 800,
-        dots: true,
+        dots: false,
         loop: true,
         items: 1
     });
-    
+        
 })(jQuery);
 
