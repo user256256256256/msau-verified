@@ -187,7 +187,7 @@ class CustomEvents extends HTMLElement {
                                     <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
                                     <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
                                 </div>
-                                <a class="h5" href="">Basic Training Course (BTC)</a>
+                                <a class="h5" href="/events-articles/btc.html">Basic Training Course (BTC)</a>
                                 <div class="border-top mt-4 pt-4">
                                     <div class="d-flex justify-content-between">
                                         <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
@@ -205,7 +205,25 @@ class CustomEvents extends HTMLElement {
                                     <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
                                     <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
                                 </div>
-                                <a class="h5" href="">Masters Training Course (MTC)</a>
+                                <a class="h5" href="/events-articles/mtc.html">Masters Training Course (MTC)</a>
+                                <div class="border-top mt-4 pt-4">
+                                    <div class="d-flex justify-content-between">
+                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
+                                        <h5 class="m-0">cost</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="rounded overflow-hidden mb-2">
+                            <img class="img-fluid" src="img/course-2.jpg" alt="">
+                            <div class="bg-secondary p-4">
+                                <div class="d-flex justify-content-between mb-3">
+                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
+                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
+                                </div>
+                                <a class="h5" href="/events-articles/tot.html">Trainers Of Trainees (TOT)</a>
                                 <div class="border-top mt-4 pt-4">
                                     <div class="d-flex justify-content-between">
                                         <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
@@ -241,7 +259,7 @@ class CustomEvents extends HTMLElement {
                                     <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
                                     <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
                                 </div>
-                                <a class="h5" href="">Career Guidance</a>
+                                <a class="h5" href="career-guidance.html">Career Guidance</a>
                                 <div class="border-top mt-4 pt-4">
                                     <div class="d-flex justify-content-between">
                                         <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
