@@ -79,15 +79,10 @@ document.addEventListener('DOMContentLoaded', function (){
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources</a>
                                 <div class="dropdown-menu rounded-0 m-0">
                                     <a href="/events.html" class="dropdown-item">Events</a>
-                                    <a href="/news&annoucements.html" class="dropdown-item">News & Annocements</a>
-                                    <a href="/articles.html" class="dropdown-item">Blogs</a>
-                                    <a href="/testimonials.html" class="dropdown-item">Testimonials</a>
                                 </div>
                             </div>
                             <a href="/contact.html" class="nav-item nav-link">Contact Us</a>
-                            <a href="/authentication.html" class="nav-item nav-link">Member</a>
                         </div>
-                        <a class="btn btn-primary py-2 px-4 ml-auto d-none d-lg-block" href="donate.html">DONATE</a>
                     </div>
                 </nav>
             </div>
@@ -122,8 +117,6 @@ document.addEventListener('DOMContentLoaded', function (){
                         <div class="d-flex flex-column justify-content-start">
                             <a class="text-white mb-2" href="/our-profile.html"><i class="fa fa-angle-right mr-2"></i>About</a>
                             <a class="text-white mb-2" href="/contact.html"><i class="fa fa-angle-right mr-2"></i>Contact</a>
-                            <a class="text-white mb-2" href=""><i class="fa fa-angle-right mr-2"></i>Members</a>
-                            <a class="text-white mb-2" href=""><i class="fa fa-angle-right mr-2"></i>Donate</a>
                         </div>
                     </div>
                 </div>
@@ -142,12 +135,6 @@ document.addEventListener('DOMContentLoaded', function (){
             </div>
             <div class="col-lg-6 text-center text-md-right">
                 <ul class="nav d-inline-flex">
-                    <li class="nav-item">
-                        <a class="nav-link text-white py-0" href="/privacy.html">Privacy</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white py-0" href="/terms.html">Terms</a>
-                    </li>
                     <li class="nav-item">
                         <a class="nav-link text-white py-0" href="/faqs.html">FAQs</a>
                     </li>

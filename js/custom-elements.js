@@ -79,15 +79,10 @@ class CustomHeader extends HTMLElement {
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources</a>
                                     <div class="dropdown-menu rounded-0 m-0">
                                         <a href="events.html" class="dropdown-item">Events</a>
-                                        <a href="news&annoucements.html" class="dropdown-item">News & Annocements</a>
-                                        <a href="articles.html" class="dropdown-item">Blogs</a>
-                                        <a href="testimonials.html" class="dropdown-item">Testimonials</a>
                                     </div>
                                 </div>
                                 <a href="contact.html" class="nav-item nav-link">Contact Us</a>
-                                <a href="authentication.html" class="nav-item nav-link">Member</a>
                             </div>
-                            <a class="btn btn-primary py-2 px-4 ml-auto d-none d-lg-block" href="donate.html">DONATE</a>
                         </div>
                     </nav>
                 </div>
@@ -124,8 +119,6 @@ class CustomFooter extends HTMLElement {
                             <div class="d-flex flex-column justify-content-start">
                                 <a class="text-white mb-2" href="our-profile.html"><i class="fa fa-angle-right mr-2"></i>About</a>
                                 <a class="text-white mb-2" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact</a>
-                                <a class="text-white mb-2" href=""><i class="fa fa-angle-right mr-2"></i>Members</a>
-                                <a class="text-white mb-2" href=""><i class="fa fa-angle-right mr-2"></i>Donate</a>
                             </div>
                         </div>
                     </div>
@@ -144,12 +137,6 @@ class CustomFooter extends HTMLElement {
                 </div>
                 <div class="col-lg-6 text-center text-md-right">
                     <ul class="nav d-inline-flex">
-                        <li class="nav-item">
-                            <a class="nav-link text-white py-0" href="privacy.html">Privacy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white py-0" href="terms.html">Terms</a>
-                        </li>
                         <li class="nav-item">
                             <a class="nav-link text-white py-0" href="faqs.html">FAQs</a>
                         </li>
@@ -181,127 +168,57 @@ class CustomEvents extends HTMLElement {
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-1.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-1.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
                                 <a class="h5" href="/events-articles/btc.html">Basic Training Course (BTC)</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-2.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-2.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
                                 <a class="h5" href="/events-articles/mtc.html">Masters Training Course (MTC)</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-2.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-3.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
                                 <a class="h5" href="/events-articles/tot.html">Trainers Of Trainees (TOT)</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-3.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-4.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
-                                <a class="h5" href="">Ramadhan Seminars</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
+                                <a class="h5" href="/events-articles/ramadhan-seminars.html">Ramadhan Seminars</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-4.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-5.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
                                 <a class="h5" href="career-guidance.html">Career Guidance</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-5.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-6.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
-                                <a class="h5" href="">WAL and Health Camps</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
+                                <a class="h5" href="/events-articles/wal&health-camps.html">WAL and Health Camps</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mb-4">
                         <div class="rounded overflow-hidden mb-2">
-                            <img class="img-fluid" src="img/course-6.jpg" alt="">
+                            <img class="img-fluid" src="img/events/events-7.jpg" alt="">
                             <div class="bg-secondary p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <small class="m-0"><i class="fa fa-calendar text-primary mr-2"></i>Date</small>
-                                    <small class="m-0"><i class="far fa-clock text-primary mr-2"></i>Days</small>
-                                </div>
-                                <a class="h5" href="">Institutional Visits</a>
-                                <div class="border-top mt-4 pt-4">
-                                    <div class="d-flex justify-content-between">
-                                        <h6 class="m-0"><i class="fa fa-map-marker text-primary mr-2"></i>Location</h6>
-                                        <h5 class="m-0">cost</h5>
-                                    </div>
-                                </div>
+                                <a class="h5" href="/events-articles/institutional-visits.html">Institutional Visits</a>
                             </div>
                         </div>
                     </div>
@@ -313,63 +230,3 @@ class CustomEvents extends HTMLElement {
     }
 }
 customElements.define('custom-events', CustomEvents)
-
-// custom testimonials
-class CustomtesTestimonials extends HTMLElement {
-    connectedCallback() {
-        this.innerHTML = `
-        <!-- Testimonial Start -->
-        <div class="container-fluid py-5">
-            <div class="container py-5">
-                <div class="text-center mb-5">
-                    <h5 class="text-primary text-uppercase mb-3" style="letter-spacing: 5px;">Testimonials</h5>
-                    <h1>What People Say</h1>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="owl-carousel testimonial-carousel">
-                            <div class="text-center">
-                                <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
-                                <h4 class="font-weight-normal mb-4">Dolor eirmod diam stet kasd sed. Aliqu rebum est eos. Rebum elitr dolore et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</h4>
-                                <img class="img-fluid mx-auto mb-3" src="img/testimonial-1.jpg" alt="">
-                                <h5 class="m-0">Client Name</h5>
-                                <span>Profession</span>
-                            </div>
-                            <div class="text-center">
-                                <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
-                                <h4 class="font-weight-normal mb-4">Dolor eirmod diam stet kasd sed. Aliqu rebum est eos. Rebum elitr dolore et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</h4>
-                                <img class="img-fluid mx-auto mb-3" src="img/testimonial-2.jpg" alt="">
-                                <h5 class="m-0">Client Name</h5>
-                                <span>Profession</span>
-                            </div>
-                            <div class="text-center">
-                                <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
-                                <h4 class="font-weight-normal mb-4">Dolor eirmod diam stet kasd sed. Aliqu rebum est eos. Rebum elitr dolore et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</h4>
-                                <img class="img-fluid mx-auto mb-3" src="img/testimonial-3.jpg" alt="">
-                                <h5 class="m-0">Client Name</h5>
-                                <span>Profession</span>
-                            </div>
-                            <div class="text-center">
-                                <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
-                                <h4 class="font-weight-normal mb-4">Dolor eirmod diam stet kasd sed. Aliqu rebum est eos. Rebum elitr dolore et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</h4>
-                                <img class="img-fluid mx-auto mb-3" src="img/testimonial-3.jpg" alt="">
-                                <h5 class="m-0">Client Name</h5>
-                                <span>Profession</span>
-                            </div>
-                            <div class="text-center">
-                                <i class="fa fa-3x fa-quote-left text-primary mb-4"></i>
-                                <h4 class="font-weight-normal mb-4">Dolor eirmod diam stet kasd sed. Aliqu rebum est eos. Rebum elitr dolore et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</h4>
-                                <img class="img-fluid mx-auto mb-3" src="img/testimonial-3.jpg" alt="">
-                                <h5 class="m-0">Client Name</h5>
-                                <span>Profession</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Testimonial End -->
-        `
-    }
-}
-customElements.define('custom-testimonials', CustomtesTestimonials)
