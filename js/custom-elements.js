@@ -79,6 +79,7 @@ class CustomHeader extends HTMLElement {
                                     <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources</a>
                                     <div class="dropdown-menu rounded-0 m-0">
                                         <a href="events.html" class="dropdown-item">Events</a>
+                                        <a href="utilities.html" class="dropdown-item">Utilities</a>
                                     </div>
                                 </div>
                                 <a href="contact.html" class="nav-item nav-link">Contact Us</a>
